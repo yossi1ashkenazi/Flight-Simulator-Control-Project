@@ -2,6 +2,10 @@
 
 [![Presentation Project](  https://github.com/yossi1ashkenazi/PTM-project.git)
 
+
+Youtube video: [   https://youtu.be/q39zXX0OZRg   ]
+
+
 This is a project we developed during our advanced software programming course in our 3nd year.
 This project helped us to gain a higher level of knowledge in programming, with emphasis on design patterns and programming principles such as SOLID and GRASP, and finally developing our own JavaFX desktop application.
 
