@@ -11,7 +11,7 @@ This project helped us to gain a higher level of knowledge in programming, with 
 
 ## Server
 
-In this section we wrote a general server, which can be used over and over again in various projects.
+In this section we wrote a general server,  which can be used over and over again in various projects.
 In order for the server to be re-usable, there must be a seperation between the server's functionality and the rest of the code. 
 
 Therefore, we defined the functionality of the server as an interface,
