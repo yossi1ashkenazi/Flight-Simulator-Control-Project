@@ -1,6 +1,5 @@
 # Flight Simulator Control 
 
-[![Presentation Project](  https://github.com/yossi1ashkenazi/PTM-project.git)
 
 
 Youtube video: [   https://youtu.be/q39zXX0OZRg   ]
